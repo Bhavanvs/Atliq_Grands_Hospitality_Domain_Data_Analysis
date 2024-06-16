@@ -31,8 +31,26 @@ As a data analyst, my objective was to:
 - **Statistical Analysis**: `mean()`, `median()`, `std()`
 - **Data Cleaning**: `isnull()`, `fillna()`, `apply()`
 
-## Notable Insights
-- **Occupancy Trends**: Higher occupancy rates on weekends compared to weekdays.
-- **Revenue Analysis**: Mumbai leads in revenue generation, while Delhi shows high occupancy with lower realized revenue.
-- **Service Quality**: Average ratings are consistent but highlight areas for improvement in service quality.
+## Insights
+
+### Revenue Insights
+- **Top Earning City:** Mumbai led in revenue with 669M INR, while Delhi lagged at 291M INR.
+- **Best Month:** May generated the highest revenue (581.93M INR), while June was the lowest (553.93M INR).
+- **Popular Room Category:** Elite rooms brought in the most revenue, hitting 553.74M INR.
+
+### Customer Experience Highlights
+- **Highest-Rated Room:** Guests loved the Presidential rooms the most, rating them at 3.69. Premium rooms got the lowest rating at 3.59.
+- **City with Best Ratings:** Delhi stood out with an average rating of 3.78, showing guests had a great experience.
+
+### Occupancy & Booking Trends
+- **Occupancy Leader:** Delhi not only excelled in ratings but also had the highest occupancy at 62.47%.
+- **Weekend Rush:** Weekends, especially Fridays and Saturdays, saw more bookings, hinting at an opportunity for targeted promotions.
+
+## Recommendations
+- **Mumbai Momentum:** Invest in marketing initiatives tailored for Mumbai to further boost revenue.
+- **Premium Upgrade:** Enhance the Premium room experience to improve ratings and potentially increase revenue.
+- **Optimize Delhi Stays:** Despite high ratings, find strategies to increase room occupancy in Delhi for enhanced revenue.
+- **Weekend Promotions:** Leverage the weekend demand with targeted marketing campaigns on Fridays and Saturdays.
+- **Stay Adaptive:** Continuously monitor feedback, ratings, and trends to maintain competitiveness and improve guest satisfaction.
+
 
